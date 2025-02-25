@@ -1,8 +1,6 @@
-# PhoneCarrierLookUp
+# 📞 PhoneCarrierLookUp 🔍
 
-# 📞 Phone Number OSINT Tool 🔍
-
-Welcome to the **Phone Number OSINT Tool**! � This is a simple yet powerful script that allows you to retrieve basic information about a phone number, such as its location and carrier, using Python's `phonenumbers` library. Perfect for your OSINT investigations! 🕵️‍♂️
+Welcome to the **PhoneCarrierLookUp** OSINT Tool! This is a simple yet powerful script that allows you to retrieve basic information about a phone number, such as its location and carrier, using Python's `phonenumbers` library. Perfect for your OSINT investigations! 🕵️‍♂️
 
 ---
 
