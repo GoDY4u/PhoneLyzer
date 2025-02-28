@@ -26,7 +26,7 @@ try:
         timezone_str = tz[0] if tz else 'Desconocida'
 
         # Usamos comillas simples en los textos para evitar conflictos
-        print(f'🔍 Información del Número:')
+        print(f'🔍 --Información del Número--')
         print(f'📞 Número Formateado: {nacional_number}')
         print(f'🌍 País (Código): +{country_code} (ES)')
         print(f'📍 Ubicación: {location if location else \"No disponible\"}')  # Comillas escapadas
