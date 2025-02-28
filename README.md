@@ -63,7 +63,7 @@ If the number is valid, the script will return information like this:
 
 ## 🛠 Configuration and Customization
 
-If you want to modify the script, you can edit the Python block inside `phone_osint.sh`. 
+If you want to modify the script, you can edit the Python block inside `phonelyzer.sh`. 
 For example, to change the language of geolocation output, modify this line:
 
 ```python
