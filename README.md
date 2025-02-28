@@ -32,6 +32,11 @@ You can install the library with:
 pip install phonenumbers
 ```
 
+You also need to grant execution permissions to the script:
+```bash
+sudo chmod +x phonelyzer.sh
+```
+
 ---
 
 ## 🚀 Usage
