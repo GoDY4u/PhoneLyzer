@@ -22,3 +22,21 @@ Before using this script, make sure you have the following installed:
 
   ```bash
   pip3 install phonenumbers
+
+
+🚨 Disclaimer / Legal Notice
+⚠️ This script is for educational and research purposes only. ⚖️
+⚠️ Do not use it for illegal or malicious activities. 🚫
+⚠️ The author is not responsible for any misuse of this tool. ⚠️
+⚠️ Use it at your own risk. ⚠️
+
+The purpose of this project is to promote learning and ethical research in the field of Open Source Intelligence (OSINT). Always act within the bounds of the law and respect the privacy of others. 🛡️
+
+
+
+
+
+
+🛡️ Ethics and Responsibility
+This script is designed for ethical and legal investigations. 🕵️‍♀️
+Remember that unauthorized access to private information is illegal and unethical. Always obtain proper consent before conducting any kind of investigation. 🤝
