@@ -50,14 +50,14 @@ To run the script, simply provide the phone number as an argument:
 
 ### 📌 Example:
 ```bash
-./phonelyzer.sh +34666666666
+./phonelyzer.sh +34666777888
 ```
 
 If the number is valid, the script will return information like this:
 
 ```bash
 🔍 ==Number Information==
-📞 National Format: 666 666 666
+📞 National Format: 666 77 78 88
 🌍 Country Code: +34 (ES)
 📍 Location: Spain
 🛜 Carrier/ISP: Movistar
