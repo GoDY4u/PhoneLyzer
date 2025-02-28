@@ -94,4 +94,6 @@ If you liked this project, feel free to leave a ⭐ on the repository and share 
 
 ## ⚡ Disclaimer ⚡
 
-As the creator of this script, I **do not take any responsibility** for any damage, disruption, or legal consequences caused by its use. **You** (the user) are solely responsible for ensuring that you have proper authorization and permission before using the script. Misuse could result in criminal charges, and it is your responsibility to act within the boundaries of the law.
+As the creator of this script, I **do not take any responsibility** for any damage, disruption, or legal consequences caused by its use. 
+**You** (the user) are solely responsible for ensuring that you have proper authorization and permission before using the script. 
+Misuse could result in criminal charges, and it is your responsibility to act within the boundaries of the law.
