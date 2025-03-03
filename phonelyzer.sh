@@ -7,7 +7,6 @@ if [ -z "$1" ]; then
 fi
 
 PHONE_NUMBER="$1"
-REGION="${2:-ES}"  # Default country code: Spain (ES)
 
 python3 -c "
 import phonenumbers
