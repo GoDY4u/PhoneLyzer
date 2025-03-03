@@ -46,7 +46,7 @@ To run the script, simply provide the phone number as an argument:
 
 ### 📌 Syntax:
 ```bash
-./phonelyzer.sh <+Prefix_Country><phone_number>
+./phonelyzer.sh <+Prefix_Country> <phone_number>
 ```
 
 ### 📌 Example:
