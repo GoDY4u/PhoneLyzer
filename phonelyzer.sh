@@ -59,7 +59,7 @@ try:
         print(f\"🌐 International format: {international_format}\")
         print(f\"⚡ E.164 format: {e164_format}\")
         print(f\"🌍 Country: {country_name} (+{country_code}, {region_code})\")
-        print(f\"🛜 Carrier: {carrier_name if carrier_name else 'Not identified'}\")
+        print(f\"🛜 Carrier/ISP: {carrier_name if carrier_name else 'Not identified'}\")
         print(f\"⏰ Time zone(s): {', '.join(time_zones) if time_zones else 'Unknown'}\")
         print(f\"📱 Number type: {number_types.get(num_type, 'Unknown')}\")
         
