@@ -46,7 +46,7 @@ To run the script, simply provide the phone number as an argument:
 
 ### 📌 Syntax:
 ```bash
-./phonelyzer.sh <phone_number>
+./phonelyzer.sh <+Prefix_Country><phone_number>
 ```
 
 ### 📌 Example:
@@ -57,12 +57,18 @@ To run the script, simply provide the phone number as an argument:
 If the number is valid, the script will return information like this:
 
 ```bash
-🔍 ==Number Information==
-📞 National Format: 666 77 78 88
-🌍 Country Code: +34 (ES)
-📍 Location: Spain
-🛜 Carrier/ISP: Movistar
-⏰ Timezone: Europe/Madrid
+
+🔍 === NUMBER INFORMATION ===
+📞 National format: 666 77 78 88
+🌐 International format: +34 666 77 78 88
+⚡ E.164 format: +34666777888
+🌍 Country: Spain (+34, ES)
+🛜 Carrier/ISP: Vodafone
+⏰ Time zone(s): Atlantic/Canary, Europe/Madrid
+📱 Number type: 📱 Mobile
+✅ Valid: Yes (A valid number can be dialed and is assigned to a real telephone)
+🔍 Possible: Yes (A possible number matches the length and digit pattern of numbers in that region)
+
 ```
 
 ---
