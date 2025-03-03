@@ -32,7 +32,6 @@ try:
         # Geographic information
         region_code = phonenumbers.region_code_for_number(phone_number)
         country_code = phone_number.country_code
-        location = geocoder.description_for_number(phone_number, \"en\")  # In English
         country_name = geocoder.country_name_for_number(phone_number, \"en\")
         
         # Carrier and number type
@@ -48,7 +47,7 @@ try:
             PhoneNumberType.PERSONAL_NUMBER: \"👤 Personal\",
             PhoneNumberType.PAGER: \"📟 Pager\",
             PhoneNumberType.UAN: \"🏢 UAN\",
-            PhoneNumberType.UNKNOWN: \"❓ Unknown\"
+            PhoneNumberType.UNKNOWN: \"❓ Unknown\" 
         }
         
         # Time zones
@@ -60,7 +59,6 @@ try:
         print(f\"🌐 International format: {international_format}\")
         print(f\"⚡ E.164 format: {e164_format}\")
         print(f\"🌍 Country: {country_name} (+{country_code}, {region_code})\")
-        print(f\"📍 Location: {location if location else 'Not available'}\")
         print(f\"🛜 Carrier: {carrier_name if carrier_name else 'Not identified'}\")
         print(f\"⏰ Time zone(s): {', '.join(time_zones) if time_zones else 'Unknown'}\")
         print(f\"📱 Number type: {number_types.get(num_type, 'Unknown')}\")
