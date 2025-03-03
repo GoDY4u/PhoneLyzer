@@ -53,7 +53,7 @@ try:
         time_zones = timezone.time_zones_for_number(phone_number)
         
         # Display information
-        print(\"🔍 === DETAILED INFORMATION ===\")
+        print(\"🔍 === NUMBER INFORMATION ===\")
         print(f\"📞 National format: {national_format}\")
         print(f\"🌐 International format: {international_format}\")
         print(f\"⚡ E.164 format: {e164_format}\")
