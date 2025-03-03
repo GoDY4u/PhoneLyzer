@@ -13,6 +13,7 @@ The script analyzes a given phone number and returns relevant information, inclu
 - 📍 **Estimated Location**
 - 🛜 **Carrier/ISP**
 - ⏰ **Time Zone**
+- ⌛ **And More...**
 
 It uses **phonenumbers**, a Python library, to process the number and extract the information.
 
