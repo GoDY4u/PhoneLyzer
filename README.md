@@ -1,5 +1,18 @@
 # 📞 PhoneLyzer 🕵️‍♂️
 
+![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)
+![Status](https://img.shields.io/badge/Status-Development-orange)
+![Platform](https://img.shields.io/badge/Platform-Linux-blue)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/GoDY4u/PhoneLyzer)
+![GitHub stars](https://img.shields.io/github/stars/GoDY4u/PhoneLyzer?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GoDY4u/PhoneLyzer?style=social)
+![GitHub issues](https://img.shields.io/github/issues/GoDY4u/PhoneLyzer)
+![GitHub license](https://img.shields.io/github/license/GoDY4u/PhoneLyzer)
+![GitHub last commit](https://img.shields.io/github/last-commit/GoDY4u/PhoneLyzer)
+![GitHub contributors](https://img.shields.io/github/contributors/GoDY4u/PhoneLyzer)
+
+
 This **Bash** script allows you to retrieve information about phone numbers using Google's **libphonenumber** library. It provides details such as location, carrier, country code, and time zone.
 
 ---
